@@ -28,7 +28,6 @@ botones.forEach(boton => {
             
             return;
         }
-
         if(pantalla.textContent === "0" || pantalla.textContent === "Error!"){
             pantalla.textContent = botonApretado;
         }else{
