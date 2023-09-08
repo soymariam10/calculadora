@@ -1,8 +1,11 @@
 # calculadora
-<h1 txt-align="center">
+<h1>
+    <p align="center">
   <br>
     <a href="https://github.com/soymariam10/calculadora"><img src="css/Img/frontend-PhotoRoom.png" alt="LogoRepo" width="100"></a>
   <br>
-  Calculadora Básica
+  </p>
+  :sparkles: ## <samp>Calculadora Básica </samp>:sparkles:
   <br>
+  Ejercicios pequeños con el objetivo de mejorar mis habilidades
 </h1>
